@@ -26,6 +26,11 @@ DOMAIN-SUFFIX,twdvd.com
 DOMAIN-SUFFIX,unsplash.com
 DOMAIN-SUFFIX,buzzsprout.com
 
+# 我的
+DOMAIN-KEYWORD,npmjs
+DOMAIN-KEYWORD,visualstudio.com
+DOMAIN-KEYWORD,vscode
+
 # 国外域名
 DOMAIN-SUFFIX,eu
 DOMAIN-SUFFIX,hk
