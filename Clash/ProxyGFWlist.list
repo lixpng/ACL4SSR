@@ -31,6 +31,27 @@ DOMAIN-KEYWORD,npmjs
 DOMAIN-KEYWORD,visualstudio.com
 DOMAIN-KEYWORD,vscode
 DOMAIN-SUFFIX,feedly.com
+DOMAIN-SUFFIX,tailscale.com
+DOMAIN-SUFFIX,v2ex.com
+DOMAIN-SUFFIX,yarnpkg.com
+DOMAIN-SUFFIX,gitbook.io
+DOMAIN-KEYWORD,github
+DOMAIN-SUFFIX,npmjs.org
+DOMAIN-SUFFIX,thinkman.com
+DOMAIN-SUFFIX,tokeninsight.com
+DOMAIN-SUFFIX,skilling.com
+DOMAIN-SUFFIX,turbo.build
+DOMAIN-SUFFIX,vercel.com
+DOMAIN-SUFFIX,clerk.com
+DOMAIN-KEYWORD,codeproject
+DOMAIN-KEYWORD,tengjiang.site
+DOMAIN-KEYWORD,mojie
+DOMAIN-KEYWORD,nextjs
+DOMAIN-KEYWORD,metamask
+DOMAIN-KEYWORD,1point3acres
+DOMAIN-KEYWORD,hello-algo
+DOMAIN-KEYWORD,bnbstatic
+DOMAIN-KEYWORD,binance
 
 # 国外域名
 DOMAIN-SUFFIX,eu

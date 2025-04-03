@@ -19,6 +19,10 @@ DOMAIN-SUFFIX,zhenguanyu.com
 DOMAIN-SUFFIX,snapdrop.net
 DOMAIN-SUFFIX,tebex.io
 
+# 我的
+DOMAIN-SUFFIX,lixpng.top
+DOMAIN-SUFFIX,tailscale.com
+
 # CN域名直连(中国|公司|网络)
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,xn--fiqs8s
