@@ -30,6 +30,7 @@ DOMAIN-SUFFIX,buzzsprout.com
 DOMAIN-KEYWORD,npmjs
 DOMAIN-KEYWORD,visualstudio.com
 DOMAIN-KEYWORD,vscode
+DOMAIN-SUFFIX,feedly.com
 
 # 国外域名
 DOMAIN-SUFFIX,eu
