@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,tebex.io
 # 我的
 DOMAIN-SUFFIX,lixpng.top
 DOMAIN-SUFFIX,tailscale.com
+DOMAIN-SUFFIX,520switch.com
 
 # CN域名直连(中国|公司|网络)
 DOMAIN-SUFFIX,cn
